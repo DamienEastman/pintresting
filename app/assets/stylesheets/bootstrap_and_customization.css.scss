@@ -1,6 +1,7 @@
 $body-bg: #B2CCCC;
 $navbar-default-brand-color: #2ecc71;
 $navbar-default-link-color: #2ecc71;
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
-
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 .center { text-align: center;}
